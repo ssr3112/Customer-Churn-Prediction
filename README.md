@@ -30,8 +30,10 @@ churn-prediction/
 How to Run
 
 # 1. Create and activate venv
-python -m venv venv
-venv\Scripts\activate    # Windows
+python -m venv venv. 
+
+
+venv\Scripts\activate    # Windows for activating
 # source venv/bin/activate  # Mac/Linux
 
 # 2. Install dependencies
